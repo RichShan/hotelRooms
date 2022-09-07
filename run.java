@@ -13,8 +13,8 @@ class run{
         r1.checkIn(p2);
         r1.checkIn(p3);
         r1.listGuests();
-        r1.printCapacity();
-        System.out.println(r1.checkCapacity());
+        r1.checkCapacity();
+        r1.printGuestInfo();
     
 
 
